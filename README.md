@@ -28,3 +28,5 @@ int mid_orig(int low, int high)
     return (low + high)/2; 
 } 
 ```
+
+[CHAPTER1](./lecture1/section1.md)
