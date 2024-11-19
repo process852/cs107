@@ -31,7 +31,7 @@ int main(){
     int num = 50; // 0011 0010
     printf("%d\n", isspace('\0'));
     showBits(&num);
-    printf("%p\n", &num);
+    printf("%p\n", &num); // output 2
     printf("%d\n", atoi(&num));
     // printf("%d\n", atoi(num)); // segment fault
     return 0;
